@@ -26,39 +26,12 @@ This project begins with a servo-controlled animatronic eye using the **Arduino 
 ---
 
 ## 📁 Folder Structure
-# BigHope Animatronic Robot Project
 
-This is the official repository for the **BigHope Animatronic Robot** — an educational robotics system that combines 3D printing, servo mechanics, AI/ML interaction, and omni-wheel mobility. Designed for STEAM learning, this project introduces students to the world of embedded systems, machine learning, and mechanical engineering through hands-on experience.
-
----
-
-## 🔧 Project Overview
-
-This project begins with a servo-controlled animatronic eye using the **Arduino Portenta H7** and **Nano 33 BLE Sense**. It expands to include:
-- A robotic neck (base, elbow, wrist)
-- Omni-directional mobility using DC motors + omni wheels
-- AI-powered behavior triggered by gesture, sound, or environmental input
-
----
-
-## ✨ Features
-
-- 3D-printed eye with pan, tilt, and blinking eyelids
-- Nano 33 BLE Sense for gesture, sound, and ML input
-- Portenta H7 for servo control and real-time responsiveness
-- Optional PCA9685 for additional servo expansion
-- AI/ML model integration (TinyML - gestures, keyword spotting)
-- Holonomic drive control using omni wheels and DC motors
-- Modular sprint-based development process (documented in Notion)
-
----
-
-## 📁 Folder Structure
-/src        - Arduino sketches and Nano code  
-/design     - STL files, PCB designs, CAD screenshots  
-/docs       - Wiring diagrams, project planning files  
-/media      - Demo photos, renders, video links  
-/models     - Trained ML models (.tflite or JSON)  
+- `/src` – Arduino sketches and Nano code  
+- `/design` – STL files, PCB designs, CAD screenshots  
+- `/docs` – Wiring diagrams, project planning files  
+- `/media` – Demo photos, renders, video links  
+- `/models` – Trained ML models (.tflite or JSON)    
 ---
 
 ## 📎 Attribution
