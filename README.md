@@ -46,7 +46,7 @@ Licensed under Creative Commons for non-commercial educational use.
 
 - Notion Workspace: _[Add your link here]_
 - Google Sheets Tracker: _[Add your parts tracker link here]_
-- STL File Folder: [STL FILES]((https://drive.google.com/drive/folders/1-08V9rhpl0lQLlnyIFLOZ9W7XX52hfIK?usp=drive_link))
+- STL File Folder: [Download STL Files](https://drive.google.com/drive/folders/1-08V9rhpl0lQLlnyIFLOZ9W7XX52hfIK?usp=drive_link)
 
 ---
 
