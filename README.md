@@ -18,7 +18,7 @@ This project begins with a servo-controlled animatronic eye using the **Arduino 
 - 3D-printed eye with pan, tilt, and blinking eyelids
 - Nano 33 BLE Sense for gesture, sound, and ML input
 - Portenta H7 for servo control and real-time responsiveness
-- Optional PCA9685 for additional servo expansion
+- Optional PCA9685 for additional servo expansion or stepper motor expansion
 - AI/ML model integration (TinyML - gestures, keyword spotting)
 - Holonomic drive control using omni wheels and DC motors
 - Modular sprint-based development process (documented in Notion)
